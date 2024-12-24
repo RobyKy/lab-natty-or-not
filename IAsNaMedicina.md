@@ -20,10 +20,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Avanço das IAs na medicina
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é uma breve explicação dos benefícios da IA na medicina
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
